@@ -1,0 +1,197 @@
+body {
+    width: 480px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    
+}
+
+header {
+    background-color: black;
+    padding: 60px;
+}
+
+button {
+    background-color: #f04c2f ;
+    font-family: 'Montserrat', sans-serif; 
+    font-weight: bold;
+    border-radius: 5px 5px 5px 5px;
+    color: white;
+    border: 1px solid transparent;
+    padding: 10px;
+    width: 150px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-left: 10px;
+    text-align: center;
+}
+
+section {
+    white-space: none;
+}
+
+article {
+    margin:auto;
+    /*padding: collapse;*/
+    line-height: 2;
+    text-align: center;
+    white-space: inherit;
+    
+}
+
+span {
+    font-family: 'Open Sans', sans-serif;
+    font-size:0.8em;
+    margin-bottom: 20px;
+}
+
+a {
+    color: white;
+}
+
+/* hr{
+    color: white;
+    background: white;
+    border: 0;
+    height: 1px; 
+} */
+
+footer {
+    background-color: #2f95b5;
+    color: white;
+
+}
+
+#Logo {
+    width: 200px;
+}
+
+.prima {
+    line-height: 1.8;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    font-size: 1.1rem;
+    background-image: url(./banner.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#Primo {
+    width: 420px;
+    font-size: 2.5rem;
+    font-weight: bold;
+    text-align: center;
+    padding-left: 32px;
+    line-height: 1;
+    color: #25a2c3;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+#Intro {
+    width: 350px;
+    padding-left: 80px;
+    text-align: center;
+}
+
+.Sottotitoli {
+    color: #25a2c3;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+    font-size: 1.4rem;
+    word-spacing: 0.2rem;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.Testo {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 500;
+}
+
+#cerchio {
+    border-radius: 50%;
+    margin-left: 30px;
+    padding-top: 20px;
+}
+
+#Rosso {
+    background-color: #e22d0e;
+    color: white; 
+    margin-top: 45px;
+}
+
+#Rh {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+    font-size: 2em;
+    word-spacing: 0.2rem;
+    height: 100px;
+    
+}
+
+#corsivo {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+    font-style: italic;
+}
+
+#Mario {
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    font-size: 1.1em;
+    margin-top:50px;
+}
+
+/**/
+
+.foto-div {
+    width: 478px;
+    position: relative;
+    right: 0%;
+}
+
+.container {
+    text-align: center;
+    width: 478px; 
+    border: 1px solid silver; 
+   margin-top: 20%;
+   
+}
+
+
+.container img {
+    width: 478px;
+}
+
+#Foot {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+    font-size: 2.2em;
+    word-spacing: 0.2rem;
+     height: 100px; 
+     padding-top: 40px;
+     
+}
+
+#Saint {
+    text-align: center;
+    margin-bottom: 60px;
+    font-size: 1.2em;
+    line-height: 2;
+    font-family: 'Open Sans', sans-serif;
+}
+
+#final {
+    text-align: center;
+    margin-bottom: 60px;
+    font-size: 1.2em;
+    line-height: 2;
+    font-family: 'Open Sans', sans-serif;
+    padding-bottom: 50px;
+}
+
+i {
+    
+}
+
